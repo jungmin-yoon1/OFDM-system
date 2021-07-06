@@ -18,4 +18,15 @@
 - Check Symbol
 
 #### Result
-<img src="https://user-images.githubusercontent.com/58179712/124543941-28a49200-de61-11eb-985c-42b1d2a82bdf.png"  width="500">
+- Generate BPSK Signal
+<img src="https://user-images.githubusercontent.com/58179712/124545706-7bcc1400-de64-11eb-8cb1-3a46d5a5ad90.png"  width="500">
+
+- BPSK Symbols & Symbols after IFFT
+<img src="https://user-images.githubusercontent.com/58179712/124545720-7ec70480-de64-11eb-94a1-0941235ffa31.png"  width="500">
+
+- Before IFFT & After FFT
+<img src="https://user-images.githubusercontent.com/58179712/124545721-7ff83180-de64-11eb-9e5a-5b81914159d7.png"  width="500">
+
+- Transmit Signal & Receive Signal
+<img src="https://user-images.githubusercontent.com/58179712/124545725-81295e80-de64-11eb-839a-7a75d5b89343.png"  width="500">
+
